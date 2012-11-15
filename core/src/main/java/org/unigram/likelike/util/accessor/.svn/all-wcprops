@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/82/trunk/core/src/main/java/org/unigram/likelike/util/accessor
+END
+DFSWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/82/trunk/core/src/main/java/org/unigram/likelike/util/accessor/DFSWriter.java
+END
+IReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/82/trunk/core/src/main/java/org/unigram/likelike/util/accessor/IReader.java
+END
+CassandraWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/82/trunk/core/src/main/java/org/unigram/likelike/util/accessor/CassandraWriter.java
+END
+IWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/82/trunk/core/src/main/java/org/unigram/likelike/util/accessor/IWriter.java
+END

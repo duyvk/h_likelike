@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/82/trunk/core/src/main/java/org/unigram/likelike/lsh
+END
+GetRecommendationsMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/82/trunk/core/src/main/java/org/unigram/likelike/lsh/GetRecommendationsMapper.java
+END
+SelectClustersReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/82/trunk/core/src/main/java/org/unigram/likelike/lsh/SelectClustersReducer.java
+END
+LSHRecommendations.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/82/trunk/core/src/main/java/org/unigram/likelike/lsh/LSHRecommendations.java
+END
+GetRecommendationsReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/82/trunk/core/src/main/java/org/unigram/likelike/lsh/GetRecommendationsReducer.java
+END
+SelectClustersMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/82/trunk/core/src/main/java/org/unigram/likelike/lsh/SelectClustersMapper.java
+END

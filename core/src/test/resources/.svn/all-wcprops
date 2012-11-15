@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/82/trunk/core/src/test/resources
+END
+testInput.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/82/trunk/core/src/test/resources/testInput.txt
+END
+cassandra-context-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/82/trunk/core/src/test/resources/cassandra-context-test.xml
+END
+testSmallRecommend.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/82/trunk/core/src/test/resources/testSmallRecommend.txt
+END
+testSmallInput.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/82/trunk/core/src/test/resources/testSmallInput.txt
+END
+storage-conf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/82/trunk/core/src/test/resources/storage-conf.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/82/trunk/core/src/test/resources/log4j.properties
+END

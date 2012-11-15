@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/82/trunk/core/src/main/java/org/unigram/likelike/validate
+END
+ValidationConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/82/trunk/core/src/main/java/org/unigram/likelike/validate/ValidationConstants.java
+END
+Validation.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/82/trunk/core/src/main/java/org/unigram/likelike/validate/Validation.java
+END
+ValidationMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/82/trunk/core/src/main/java/org/unigram/likelike/validate/ValidationMapper.java
+END
+ValidationReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/82/trunk/core/src/main/java/org/unigram/likelike/validate/ValidationReducer.java
+END
